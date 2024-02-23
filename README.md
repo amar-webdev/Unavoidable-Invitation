@@ -1,6 +1,8 @@
 # Unavoidable Invitation
 
 Welcome to Unavoidable Invitation, where you'll experience the charm of an irresistible proposal!
+# you can also send them freinds on link 
+https://amar-webdev.github.io/Unavoidable-Invitation/
 
 ## About
 Unavoidable Invitation is a fun project that presents a playful twist on the concept of invitations. It aims to provide a lighthearted and engaging experience for users.
